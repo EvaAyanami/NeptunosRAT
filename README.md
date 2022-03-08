@@ -3,8 +3,7 @@ csharp RAT (I am not responsible for what you do with this software (educational
 discord : https://discord.gg/kqjSGYrtA6
 
 
-Le Tutoriel est disponible ici : https://youtube.com/
 
 
 
-The Tutorial is available here : https://youtube.com/
+The Tutorial is available here / Le Tutoriel est disponible ici : https://youtu.be/dbGgME-vtkk
